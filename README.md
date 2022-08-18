@@ -1,5 +1,5 @@
 # Patika.dev Linkim
-[https://app.patika.dev/elifnazliboke](url)
+https://app.patika.dev/elifnazliboke
 
 # Merge Sort Projesi
 
